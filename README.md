@@ -1,1 +1,1 @@
-Test for git connection
+Test for git connection, adding text to test for main branch merge
