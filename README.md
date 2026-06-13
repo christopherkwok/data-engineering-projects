@@ -1,7 +1,7 @@
 ### Summary
-git project to build a hybrid, end-to-end data pipeline that ingests raw public data, transform it through a structured lakehouse architecture, and serve analytics to end-users
+Git project to build a hybrid, end-to-end data pipeline that ingests raw public data, transforms it through a structured lakehouse architecture, and serves analytics to end-users.
 
-| Platform | Role / Notes |
+| **Platform** | **Role / Notes** |
 | --- | --- |
 | [API / Public Dataset] | Source |
 | Airflow DAG (Docker) | Orchestration layer |
